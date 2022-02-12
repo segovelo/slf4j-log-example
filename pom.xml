@@ -14,7 +14,7 @@
 	<name>slf4j-log-example</name>
 	<description>Demo project for SLF4J logging in Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
